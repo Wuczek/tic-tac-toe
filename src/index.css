@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .size-1 {
+    @apply w-24 h-24;
+  }
+
+  .size-2 {
+    @apply w-32 h-32 text-6xl;
+  }
+
+  .size-3 {
+    @apply w-48 h-48 text-7xl;
+  }
+}
