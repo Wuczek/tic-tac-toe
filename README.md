@@ -2,5 +2,5 @@
 
 - Built With React & Tailwind
 
-![screenshot](https://github.com/Wuczek/tic-tac-toe/screenshot.png)
+![Screenshot](https://github.com/Wuczek/tic-tac-toe/blob/main/screenshot.png)
 
